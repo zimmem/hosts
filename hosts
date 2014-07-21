@@ -19,6 +19,7 @@
 216.239.32.27 keep.google.com
 216.239.32.27 plus.google.com
 216.239.32.27 maps.googleapis.com
+216.239.32.27 images.google.com
 
 216.239.32.27 auth.googleusercontent.com
 216.239.32.27 themes.googleusercontent.com
@@ -29,6 +30,8 @@
 
 216.239.32.27 fonts.googleapis.com
 216.239.32.27 apis.google.com
+
+216.239.32.27 docs.google.com
 
 216.239.32.27 accounts.google.com
 216.239.32.27 accounts.google.com.hk
@@ -41,11 +44,50 @@
 216.239.32.27 lh6.googleusercontent.com
 216.239.32.27 lh7.googleusercontent.com
 216.239.32.27 lh8.googleusercontent.com
+216.239.32.27 lh9.googleusercontent.com
 216.239.32.27 mail.google.com
 216.239.32.27 i.ytimg.com
 
-74.125.21.98  wiki.zimmem.com zimmem-wiki.appspot.com
+216.239.32.27 lh1.ggpht.com
+216.239.32.27 lh2.ggpht.com
+216.239.32.27 lh3.ggpht.com
+216.239.32.27 lh4.ggpht.com
+216.239.32.27 lh5.ggpht.com
+216.239.32.27 lh6.ggpht.com
+216.239.32.27 lh7.ggpht.com
+216.239.32.27 lh8.ggpht.com
+216.239.32.27 lh9.ggpht.com
+
+216.239.32.27 lh1.google.com
+216.239.32.27 lh2.google.com
+216.239.32.27 lh3.google.com
+216.239.32.27 lh4.google.com
+216.239.32.27 lh5.google.com
+216.239.32.27 lh6.google.com
+216.239.32.27 lh7.google.com
+216.239.32.27 lh8.google.com
+216.239.32.27 lh9.google.com
+
+
+
+216.239.32.27 clients1.google.com
+216.239.32.27 clients2.google.com
+216.239.32.27 clients3.google.com
+216.239.32.27 clients4.google.com
+216.239.32.27 clients5.google.com
+216.239.32.27 clients6.google.com
+216.239.32.27 clients7.google.com
+216.239.32.27 clients8.google.com
+216.239.32.27 clients9.google.com
+
+216.239.32.27 0.drive.google.com
+
+216.239.32.27 doc-0g-64-docs.googleusercontent.com
+
+74.125.21.98  zimmem-wiki.appspot.com
+74.125.203.121 wiki.zimmem.com
 
 192.30.252.128 www.github.com
 192.30.252.128 github.com
 
+216.239.32.27 clients5.google.com
