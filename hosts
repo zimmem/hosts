@@ -9,7 +9,6 @@
 216.239.32.27 chrome.google.com
 216.239.32.27 drive.google.com
 216.239.32.27 keep.google.com
-216.239.32.27 plus.google.com
 216.239.32.27 maps.googleapis.com
 216.239.32.27 images.google.com
 216.239.32.27 appengine.google.com
@@ -33,6 +32,8 @@
 216.239.32.27 ajax.googleapis.com
 
 216.239.32.27 0.drive.google.com
+
+216.239.32.27 webcache.googleusercontent.com
 
 216.239.32.27 encrypted-tbn1.gstatic.com
 216.239.32.27 encrypted-tbn2.gstatic.com
@@ -118,7 +119,8 @@
 216.239.32.27 m-dot-betaspike.appspot.com
 216.239.32.27 betaspike.appspot.com
 
-74.125.21.98 android.clients.google.com
-74.125.21.98 market.android.com
-74.125.21.98 www.googleapis.com
+#android
+216.239.32.27 android.clients.google.com
+216.239.32.27 market.android.com
+216.239.32.27 www.googleapis.com
 
