@@ -108,10 +108,6 @@
 74.125.21.98 zimmem-wiki.appspot.com
 74.125.21.98 timely-sync.appspot.com
 
-
-216.239.32.27 clients5.google.com
-
-
 192.30.252.128 www.github.com
 192.30.252.128 github.com
 
@@ -120,9 +116,9 @@
 216.239.32.27 betaspike.appspot.com
 
 #android
-216.239.32.27 android.clients.google.com
-216.239.32.27 market.android.com
-216.239.32.27 www.googleapis.com
-216.239.32.27 android.googleapis.com
+74.125.21.98 android.clients.google.com
+74.125.21.98 market.android.com
+74.125.21.98 www.googleapis.com
+74.125.21.98 android.googleapis.com
 
 
